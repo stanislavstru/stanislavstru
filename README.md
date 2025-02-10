@@ -1,6 +1,6 @@
 ## Hello 👋
 
-💬 About me. I'm Full-Stack Developer with over 10 years of experience in web application development, AI assistant integration, and scalable front-end and back-end solutions. Expertise in JavaScript, Node.js, React, Next.js, PHP, and microfrontend architectures. Strong background in building AI-powered applications, integrating LLM-based solutions, and developing intelligent automation tools. Successfully developed multiple social networks and complex platforms used by over 3,000 users.
+I'm Full-Stack Developer with over 10 years of experience in web application development, AI assistant integration, and scalable front-end and back-end solutions. Expertise in JavaScript, Node.js, React, Next.js, PHP, and microfrontend architectures. Strong background in building AI-powered applications, integrating LLM-based solutions, and developing intelligent automation tools. Successfully developed multiple social networks and complex platforms used by over 3,000 users.
 
 <!--
 **stanislavstru/stanislavstru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
