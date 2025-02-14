@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm Full-Stack Developer with over 10 years of experience in web application development, AI assistant integration, and scalable front-end and back-end solutions. Expertise in JavaScript, Node.js, React, Next.js, PHP, and microfrontend architectures. Strong background in building AI-powered applications, integrating LLM-based solutions, and developing intelligent automation tools. Successfully developed multiple social networks and complex platforms used by over 3,000 users.
+Highly skilled and driven Front-end developer with 10+ years of experience in managing web application development with server logic, utilizing creating responsive & user-friendly designs.  Proven expertise in building AI-powered applications in collaborating with cross-functional teams, integrating LLM-based solutions, and developing intelligent automation tools.
 
 My previous repo https://github.com/PUUZOO
 
