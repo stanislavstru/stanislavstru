@@ -1,6 +1,11 @@
 ## Hello 👋
 
-Highly skilled and driven Front-end developer with 10+ years of experience in managing web application development with server logic, utilizing creating responsive & user-friendly designs.  Proven expertise in building AI-powered applications in collaborating with cross-functional teams, integrating LLM-based solutions, and developing intelligent automation tools.
+Seasoned Full-Stack developer specialized on client side with over 10 years in web development,
+building projects from scratch and collaborating with cross-functional teams. Skilled in UX principles
+and mobile UI, creating responsive, user-friendly designs with a focus on reusability and efficiency.
+Strong understanding of server logic, architectural patterns, and performance optimization. Proficient
+in AI-powered applications, LLM integration, and automation tools. Experienced in setting up CI/CD,
+writing tests, and ensuring smooth deployment processes.
 
 My previous repo https://github.com/PUUZOO
 
